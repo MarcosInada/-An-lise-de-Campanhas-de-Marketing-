@@ -1,3 +1,5 @@
+# MARKETING
+
 
 # 🎯 Performance de Campanhas de Marketing (ROI & Conversão)
 💡 Pitch: Otimização de investimentos em marketing digital através da análise de ROI, funil de conversão e eficiência de custo por canal publicitário.
@@ -10,20 +12,21 @@ Objetivo: Analisar a conversão e o ROI para maximizar a eficiência do orçamen
 Público-alvo: CMOs (Diretores de Marketing), Gestores de Tráfego e Analistas de Performance.
 
 Fonte de Dados: Base estruturada do curso "Data Science Academy " , simulando uma operação real de marketing digital.
+
 # IMAGEM DO DESHBOARD 
 ![Performance de Vendas](marketing.png)  
 ![Performance de Vendas](marketing.png.2.png)
 ![Performance de Vendas](marketing.png.3.png) 
 ![Performance de Vendas](marketing.png.4.png)
 
-🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 Power BI: Desenvolvimento de dashboards interativos e storytelling de dados.
 
 Linguagem DAX: Cálculos de ROI dinâmico, taxas de conversão e métricas de eficiência (CPA/CPC).
 
 Power Query (ETL): Integração e padronização de bases de dados provenientes de diferentes plataformas de anúncios.
 
-📊 Indicadores Chave (KPIs)
+# 📊 Indicadores Chave (KPIs)
 O painel foca nas métricas que realmente movem o ponteiro do negócio:
 
 ROI (Retorno sobre Investimento): Quanto a empresa fatura para cada R$ 1,00 investido.
@@ -34,7 +37,8 @@ Custo por Aquisição (CPA): Quanto custa, em média, conquistar um novo cliente
 
 Faturamento vs. Investimento: Visão clara da margem bruta gerada pelas campanhas.
 
-💡 Insights e Análise de Negócio
+# 💡 Insights e Análise de Negócio
+
 📈 Conclusões Estratégicas extraídas:
 Otimização de Canais (Custo-Benefício): A análise permite identificar canais que possuem um faturamento alto, mas um ROI baixo devido ao custo elevado do anúncio. Isso sinaliza a necessidade de pausar ou otimizar campanhas onde o Custo por Clique (CPC) está corroendo a margem.
 
@@ -44,7 +48,7 @@ Alocação Inteligente de Orçamento: O dashboard revela quais categorias de pro
 
 Sazonalidade e Comportamento: Ao analisar a performance temporal, conseguimos identificar períodos onde o investimento em marketing não se traduz em vendas, permitindo um planejamento de "verba de reserva" para períodos de alta conversão comprovada.
 
-⚙️ Inteligência de Dados
+# ⚙️ Inteligência de Dados
 Lógica de ROI Dinâmico: Medidas DAX que recalculam automaticamente o retorno conforme os filtros de data e canal são aplicados, permitindo uma análise granular por mídia.
 
 Modelagem Star Schema: Conexão entre a tabela fato de Investimento e a tabela fato de Vendas, garantindo que as métricas de custo e receita estejam perfeitamente alinhadas por data e categoria.
