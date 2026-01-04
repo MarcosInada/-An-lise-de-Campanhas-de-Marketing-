@@ -57,7 +57,7 @@ Modelagem Star Schema: Conexão entre a tabela fato de Investimento e a tabela f
 
 
 
-#✍️ Autor
+# ✍️ Autor
 Marcos Inada
 
 Analista de Dados | Power BI | Insights de Mercado
